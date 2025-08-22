@@ -1,5 +1,6 @@
 # Smart Health Record (SHR) 
 
+![Project Banner](health-care.)
 
 Smart Health Record (SHR) is Electronic Health Record (EHR) project under the supervision of Digital Egypt Pioneers Initiative  
 
