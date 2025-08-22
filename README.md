@@ -1,9 +1,8 @@
 # medical-history-platform
-# Smart Health Record (SHR)
+
 
 Electronic Health Record (EHR) project under the supervision of Digital Egypt Pioneers Initiative  
 
-![Project Banner](https://via.placeholder.com/1000x300)  
 
 ## 👥 Team members
 - Nareeman Talaat KOTB
