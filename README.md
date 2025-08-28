@@ -6,8 +6,8 @@ Smart Health Record (SHR) is Electronic Health Record (EHR) project under the su
 
 
 ##  Team members
-- Nareeman Talaat Kotb
-- Hager Mohammed Ahmed 
+- Hager Mohammed Ahmed
+- Nareeman Talaat Kotb 
 - Amira Sayed Tayea  
 - Aya Reda Kaml  
 - Habiba Ashraf Mahmoud  
